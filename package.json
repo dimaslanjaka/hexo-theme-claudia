@@ -34,15 +34,15 @@
     "@types/gulp": "^4",
     "@types/gulp-sass": "^5",
     "@types/prettier": "^2",
-    "@typescript-eslint/eslint-plugin": "^5.59.0",
-    "@typescript-eslint/parser": "^5.59.0",
-    "eslint": "^8.38.0",
+    "@typescript-eslint/eslint-plugin": "^5.59.2",
+    "@typescript-eslint/parser": "^5.59.2",
+    "eslint": "^8.40.0",
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-prettier": "^4.2.1",
     "gulp": "^4.0.2",
     "gulp-sass": "^5.1.0",
     "nodemon": "^2.0.22",
-    "prettier": "^2.8.7",
-    "sass": "^1.62.0"
+    "prettier": "^2.8.8",
+    "sass": "^1.62.1"
   }
 }
