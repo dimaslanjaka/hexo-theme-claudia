@@ -26,7 +26,7 @@
     "node-sass": "^8.0.0",
     "postcss": "^8.4.23",
     "postcss-cli": "^10.1.0",
-    "sbg-utility": "^1.1.0"
+    "sbg-utility": "^1.1.2"
   },
   "packageManager": "yarn@3.5.0",
   "devDependencies": {
