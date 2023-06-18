@@ -14,3 +14,4 @@ layout/layout-njk.njk
 layout/layout-pug.pug
 layout/mixins/helloWorld.pug
 layout/mixins/index.pug
+source/assets/material-icon.svg
