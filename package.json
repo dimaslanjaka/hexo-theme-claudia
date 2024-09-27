@@ -32,6 +32,7 @@
   "devDependencies": {
     "@types/eslint": "^9",
     "@types/gulp": "^4",
+    "@types/node": "^22.7.3",
     "@types/prettier": "^3",
     "@types/through2": "https://github.com/dimaslanjaka/nodejs-package-types/tarball/through2",
     "@typescript-eslint/eslint-plugin": "^8.7.0",
@@ -43,6 +44,7 @@
     "nodemon": "^3.1.7",
     "prettier": "^3.3.3",
     "sass": "^1.79.3",
-    "through2": "^4.0.2"
+    "through2": "^4.0.2",
+    "typescript": "^5.6.2"
   }
 }
