@@ -27,7 +27,9 @@ const config = {
     {
       files: ['*.js', '*.cjs'],
       rules: {
-        '@typescript-eslint/no-var-requires': 'off' // disable require warning on js files
+        '@typescript-eslint/no-var-requires': 'off', // disable require warning on js files
+        '@typescript-eslint/no-require-imports': 'off', // disable ES6-style imports over require()
+        '@typescript-eslint/triple-slash-reference': 'off' // disable include refenrences definition files on js
       }
     }
   ],
